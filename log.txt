@@ -1,12 +1,17 @@
 Your log goes in this  file.
 
+Start: Fri, 1 May 2015 08:05:22 -0600
+End: Fri, 1 May 2015 20:56:41 -0600
+Tasks: Installed XAMPP, Netbeans, added multtable.php
+
 Start: Sat, 2 May 2015 09:15:34 -0600
 End: Sat, 2 May 2015 22:07:55 -0600
 Tasks: Modified multtable.php, added loopback.php
 
-Start: Fri, 1 May 2015 08:05:22 -0600
-End: Fri, 1 May 2015 20:56:41 -0600
-Tasks: Installed XAMPP, Netbeans, added multtable.php
+Start: Sun, 3 May 2015 10:00:15 -0600
+End: Sun, 3 May 2015 16:48:57 -0600
+Tasks: Added login.php, content1.php, content2.php. Updated loopback.php
+
 
                    
                    
