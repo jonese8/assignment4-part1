@@ -5,7 +5,6 @@
         <title>multtable.php - CS290, Emmalee Jones, Assignment 4.1 </title>
     </head>
     <body>
-        #Load data input form
         <form action = "multtable.php" method = "get" >
             <h3>Create Multiplication Table</h3>
             <br/>
